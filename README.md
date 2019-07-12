@@ -12,7 +12,7 @@
 
 
 ## Next Steps
-- Define scenarios template for adding to Personas
+- Define scenarios template for adding to Personas.
 - Define potential International Personas to start work on
 -
 
