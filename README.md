@@ -13,7 +13,7 @@
 
 ## Next Steps
 - Define scenarios template for adding to Personas
-- List potential International Personas to start work on
+- Define potential International Personas to start work on
 -
 
 
