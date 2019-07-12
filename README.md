@@ -1,9 +1,9 @@
 # Personas
 
 ## The big 5
-- [5 Personas - Review Spring 2019](/files/5personas.pdf)
-- [5 Personas](/files/personas.pdf)
-- [5 Persona](/files/spectrum.pdf)
+- [Personas - Review Spring 2019](/files/5personas.pdf)
+- [Personas - 5](/files/personas.pdf)
+- [Personas - Spectrum](/files/spectrum.pdf)
 - Lou
 - Jay
 - Frankie
