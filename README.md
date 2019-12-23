@@ -2,13 +2,16 @@
 
 ## The big 5
 - [Personas - Review Spring 2019](/files/5personas.pdf)
-- [Personas - 5](/files/personas.pdf)
+- [Personas - 8 (Nov 2019](/files/PersonasNov2019.pdf)
 - [Personas - Spectrum](/files/spectrum.pdf)
-- Lou
-- Jay
-- Frankie
-- Charlie
-- Sam
+- [Lou](/files/Lou.PNG)
+- [Jay](/files/Jay.PNG)
+- [Frankie](/files/Frankie.PNG)
+- [Charlie](/files/Charlie.PNG)
+- [Sam](/files/Sam.PNG)
+- [Jean](/files/Jean.PNG)
+- [Al - Content Manager](/files/Al.PNG)
+- [Jo - Enquiry Handler](/files/Jo.PNG)
 
 
 ## Next Steps
@@ -25,3 +28,6 @@
 - Location
 - Business Stage
 - ? 
+
+<br>
+<div>Last updated: {{site.time | date_to_string}}</div>
