@@ -2,7 +2,7 @@
 
 ## The big 8
 - [Personas - Review Spring 2019](/files/5personas.pdf)
-- [Personas - 8 (Nov 2019](/files/PersonasNov2019.pdf)
+- [Personas - 8 (Nov 2019)](/files/PersonasNov2019.pdf)
 - [Personas - Spectrum](/files/spectrum.pdf)
 - [Lou](/files/Lou.PNG)
 - [Jay](/files/Jay.PNG)
