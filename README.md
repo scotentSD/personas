@@ -15,6 +15,9 @@
 - [Personas - 8 (Nov 2019)](/files/PersonasNov2019.pdf)
 - [Personas - Spectrum](/files/spectrum.pdf)
 
+## FUNDING specific personas
+- 
+
 ## Next Steps to useing these personas
 1.  Define scenarios template for adding to Personas.
 2.  Define potential International Personas to start work on
