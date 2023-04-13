@@ -17,7 +17,7 @@
 
 ## Sector or Project specific personas
 - [Funding Personas 2021](/files/fundingpersonas.pdf)
-- [Export Company Personas](/files/ExportCompanyPersonas.pdf)
+- [Export Company Personas](/files/ExportingCompanyPersonas.pdf)
 
 ## Next Steps to useing these personas
 1.  Define scenarios template for adding to Personas.
