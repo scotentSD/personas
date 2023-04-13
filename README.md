@@ -16,7 +16,7 @@
 - [Personas - Spectrum](/files/spectrum.pdf)
 
 ## FUNDING specific personas
-- 
+- [Funding Personas 2021](/files/fundingpersonas.pdf)
 
 ## Next Steps to useing these personas
 1.  Define scenarios template for adding to Personas.
