@@ -19,7 +19,7 @@
 - [Funding Personas 2021](/files/fundingpersonas.pdf)
 - [Export Company Personas](/files/ExportingCompanyPersonas.pdf)
 
-## Next Steps to useing these personas
+## Next Steps to using these personas
 1.  Define scenarios template for adding to Personas.
 2.  Define potential International Personas to start work on
 3. Look at intermediaries
