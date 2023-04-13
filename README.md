@@ -15,8 +15,9 @@
 - [Personas - 8 (Nov 2019)](/files/PersonasNov2019.pdf)
 - [Personas - Spectrum](/files/spectrum.pdf)
 
-## FUNDING specific personas
+## Sector or Project specific personas
 - [Funding Personas 2021](/files/fundingpersonas.pdf)
+- [Export Company Personas](/files/ExportCompanyPersonas.pdf)
 
 ## Next Steps to useing these personas
 1.  Define scenarios template for adding to Personas.
