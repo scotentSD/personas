@@ -10,7 +10,7 @@
 - [Al - Content Manager](/files/Al.PNG)
 - [Jo - Enquiry Handler](/files/Jo.PNG)
 
-## Work done to creat ethe big 8 
+## Work done to create the big 8 
 - [Personas - Review Spring 2019](/files/5personas.pdf)
 - [Personas - 8 (Nov 2019)](/files/PersonasNov2019.pdf)
 - [Personas - Spectrum](/files/spectrum.pdf)
